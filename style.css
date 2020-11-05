@@ -1,0 +1,27 @@
+body{
+    background-color: skyblue;
+}
+#img2{
+    width: 500px;
+}
+h1{
+    color: blue;
+    font-family: inherit;
+    font-size: 72px;
+}
+html{
+    scroll-behavior: smooth;
+    scroll-snap-type: inline;
+}
+button{
+    background-color: coral;
+    width: 390px;
+    height: 72px;
+    font-size: 39px;
+}
+h2{
+    font-size: 39px;
+}
+img{
+    width: 1000px;
+}
